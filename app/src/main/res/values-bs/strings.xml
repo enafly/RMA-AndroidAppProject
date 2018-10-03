@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Muzičari</string>
+    <string name="unesi">PRETRAZI</string>
+    <string name="posalji">POŠALJI</string>
+    <string name="TopPet">Top songs:</string>
+    <string name="kadaUnese">Unosi do sutra, nema ništa još..</string>
+    <string name="mjbio">Michael Joseph Jackson (Gary, Indiana, 29. kolovoza 1958. − Los Angeles, Kalifornija, 25. lipnja 2009.), bio je američki pop glazbenik, čiji je kontroverzni osobni život bio dio pop kulture zadnje četvrtine 20. stoljeća.</string>
+    <string name="hwbio">Hayley Nichole Williams (rođena 27. Dec 1988 je američka pjevačica, tekstopisac i muzičar. Ona je najpoznatija kao glavni vokal, povremena pijanistica i primarni tekstopisac američkog rock benda Paramore.</string>
+    <string name="esbio">Edward Christopher Sheeran (17. veljače 1991.), poznatiji kao Ed Sheeran, engleski je kantautor i multiinstrumentalist. Glazbenu karijeru započeo je 2005. godine, ali tek je objavom nezavisnog EP-a, No. 5 Collaborations Project, početkom 2011., privukao značajniju pažnju javnosti i kolega glazbenika, poput Jamie Foxxa i Eltona Johna. Njegov debitantski studijski album, +, objavljen u rujnu 2011., ostvario je šesterostruku platinastu nakladu u Ujedinjenom Kraljevstvu. 2012., osvojio je dvije nagrade BRIT, za britanskog glazbenika i otkriće godine. Iste godine, osvojio je nagradu Ivor Novello za najbolju pjesmu, za singl, \"The A Team.\" 2013., \"The A Team\" bio je nominiran za nagradu Grammy u kategoriji pjesme godine.</string>
+    <string name="dgbio">U pocetku karijere, radeci kao DJ u nocnim klubovima tijekom \'80-ih i \'90-ih godina, osnovao je producentsku kuću Gum Productions i objavio svoj debitantski album Just a Little More Love 2001. godine. Kasnije izdaje albume Guetta Blaster (2004.) i Pop Life (2007.). Njegov album One Love iz 2009. godine uključuje singl \"Sexy Bitch\", duet s Akonom, koji je postao hit dospjevši na top 10 ljestvica u SAD-u. Guetta je radio s mnoštvom pop izvođača uključujući sastav Black Eyed Peas, Britney Spears, Chrisa Willisa, Kelly Rowland, will.i.am-a, Lil Waynea, Kelis, Madonnu, Kida Cudija, Flo Ridu, Shakiru, te mnoge druge. U 2010. godini nominiran je za pet Grammy nagrada od kojih je osvojio jednu.</string>
+    <string name="jhbio">James Alan Hetfield (rođen 3. avgust, 1963) je američki glazbenik, pjevač i tekstopisac poznat jer je suosnivač, pjevač, ritam gitarist i glavni tekstopisac za američki heavy metal bend Metallica. Hetfield je uglavnom poznat po svojim zamršenim ritam igranja, ali povremeno obavlja gitara dužnosti i neki solo, kako žive i na studiju. Hetfield suosnivač Metallica u Oktobar 1981, nakon odgovaranja na tajnim reklamu bubnjar Lars Ulrich u novinama Los Angeles Reciklivač. Metallica je osvojila devet Grammy nagrada i objavio devet studijskih albuma, tri live albuma, četiri produžene predstave i 24 singlova.</string>
+    <string name="konekcija">Nema internet konekcije!</string>
+    <string name="slicni">Albumi:</string>
+    <string name="zahtjev">Upućen je zahtjev servisu!</string>
+    <string name="jutub">Instalirajte aplikaciju youtube!</string>
+    <string name="bio">Nepoznato</string>
+    <string name="pokusaj">Pokusala sam!</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Musicians</string>
+    <string name="posalji">SEND</string>
+    <string name="unesi">SEARCH</string>
+    <string name="TopPet">Top songs:</string>
+    <string name="kadaUnese">Enter how many times you please,there is nothing yet..</string>
+    <string name="mjbio"> Michael Joseph Jackson (Gary, Indiana, on August 29, 1958 - Los Angeles, California, June 25, 2009) was an American pop musician, whose controversial personal life was part of the pop culture of the last quarter of the 20th century.</string>
+    <string name="hwbio">Hayley Nichole Williams (born December 27, 1988 is an American singer, songwriter and musician. She is best known as the lead vocalist, occasional keyboardist and primary songwriter of the American rock band Paramore.</string>
+    <string name="esbio">Edward Christopher Sheeran (17 February 1991), better known as Ed Sheeran, English singer-songwriter and multi-instrumentalist is. Her musical career began in 2005, but not until the publication of an independent EP, No. 5 Collaborations Project, in early 2011, attracted significant public attention and fellow musicians such as Jamie Foxx and Elton John. His debut album, +, published in September 2011, posted a six-platinum in the United Kingdom. 2012, won two BRIT Awards, the British musician and the discovery of the year. That same year, he won the Ivor Novello Award for Best Song, for single, \ "The A Team. \" 2013 \ "The A Team \" was nominated for a Grammy in the category of song of the year.</string>
+    <string name="dgbio"> In the beginning of his career, working as a DJ at nightclubs during the 80s and 90s, he founded the production house Gum Productions and released his debut album, Just a Little More Love, 2001. Later issued album Guetta Blaster (2004) and Pop Life (2007). His album One Love in 2009 includes the single \ "Sexy Bitch \", a duet with Akon, which became a hit reaching the top 10 charts in the United States. Guetta has worked with many artists including pop band Black Eyed Peas, Britney Spears, Chris Willis, Kelly Rowland, will.i.am\'s, Lil Wayne, Kelis, Madonna, Kid Cudi, Flo Rida, Shakira, and many others. In 2010 he was nominated for five Grammy Awards and won one.</string>
+    <string name="jhbio">James Alan Hetfield (born August 3, 1963) is an American musician, singer and songwriter known for being the co-founder, lead vocalist, rhythm guitarist and main songwriter for the American heavy metal band Metallica. Hetfield is mainly known for his intricate rhythm playing, but occasionally performs lead guitar duties and some solos, both live and in the studio. Hetfield co-founded Metallica in October 1981 after answering a classified advertisement by drummer Lars Ulrich in the Los Angeles newspaper The Recycler. Metallica has won nine Grammy Awards and released nine studio albums, three live albums, four extended plays and 24 singles.</string>
+    <string name="konekcija">There is no connection to the internet!</string>
+    <string name="slicni">Albums:</string>
+    <string name="zahtjev">A request was made to the service!</string>
+    <string name="jutub">Install youtube!</string>
+    <string name="bio">Unknown</string>
+    <string name="pokusaj">I tried!</string>
+</resources>
