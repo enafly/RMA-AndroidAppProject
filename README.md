@@ -1,4 +1,4 @@
 # RMA-AndroidAppProject
 <br>
->>Android application for computer science course
+>Android application for computer science course
 <br>
